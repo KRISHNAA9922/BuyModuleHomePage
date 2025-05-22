@@ -14,9 +14,7 @@ A modern and responsive homepage for a Buy/Sell . This module represents the fro
 ### 🔹 Backend
 - RESTful API using **Express.js**
 - MongoDB integration for data storage
-- Inward / Repair / Outward module for service tracking
-- Dynamic status: Pending, Partially Paid, Complete
-- Dashboard statistics with revenue and repairs summary
+- Admin Dashboard statistics with revenue and repairs summary
 ---
 
 ## 🔧 Tech Stack
