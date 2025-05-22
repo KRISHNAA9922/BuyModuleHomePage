@@ -1,33 +1,34 @@
 # 📱 BuyModuleHomePage
 
-A modern and responsive homepage for a Buy/Sell platform built with **React + TailwindCSS**. This module represents the front-facing component of an e-commerce-like application where users can explore options to buy, sell, or repair electronic devices.
+A modern and responsive homepage for a Buy/Sell . This module represents the front-facing component of an e-commerce-like application where users can explore options to buy, sell, or repair electronic devices.
 
 ---
 
-## 🚀 Features
+### 🔹 Frontend
+- Built with **React & Tailwind CSS**
+- Search bar with live interaction
+- Responsive mobile menu with smooth toggle
+- Navigation between Buy, Sell, Repair, Store, and Accessories
+- User & Cart icons with Lucide React
 
-- 🖥️ Fully responsive React UI
-- 🎨 Styled using Tailwind CSS
-- 🔍 Integrated search bar with icon
-- 📍 Location-aware UI with user/cart icons
-- 🛒 Structured routes for:
-  - Buy
-  - Sell
-  - Repair
-  - Become Partner
-  - Accessories
-  - Store and more
-- 📱 Mobile menu with toggling behavior
-- ⚡ Clean layout and modern design
-
+### 🔹 Backend
+- RESTful API using **Express.js**
+- MongoDB integration for data storage
+- Inward / Repair / Outward module for service tracking
+- Dynamic status: Pending, Partially Paid, Complete
+- Dashboard statistics with revenue and repairs summary
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-- **React**
-- **Tailwind CSS**
-- **React Router DOM**
-- **Lucide React Icons**
+| Layer       | Technology               |
+|-------------|---------------------------|
+| Frontend    | React, Tailwind CSS, Lucide React |
+| Backend     | Node.js, Express.js       |
+| Database    | MongoDB                   |
+| Routing     | React Router, Express Router |
+| State Mgmt  | React useState / Context  |
+| Tools       | Postman, Git, VS Code     |
 
 ---
 
